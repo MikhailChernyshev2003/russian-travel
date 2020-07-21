@@ -3,11 +3,11 @@
     font-weight: normal;
     font-size: 1.5rem;
     line-height: 1;
-    text-align: right;
     color: #FFFFFF;
     /*border:1px solid red;*/
     margin-bottom: 8px;
     margin-top: 18px;
+    display: inline-block;
     text-decoration-line: underline;
 }
 .header__lang-link:last-child{

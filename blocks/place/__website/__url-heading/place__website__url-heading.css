@@ -1,0 +1,28 @@
+.place__website__url-heading{
+    /*border:1px solid red;*/
+    margin-left: 40px;    
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.75rem;
+    line-height: 1;
+    letter-spacing: 0.2em;
+    color: #AAAAAA;
+}
+
+
+@media screen and (max-width: 1024px){
+    .place__website__url-heading{
+        margin-left: 32px;
+    }
+}
+@media screen and (max-width: 768px){
+    .place__website__url-heading{
+        margin-left: 28px;
+    }
+    
+}
+@media screen and (max-width: 400px){
+    .place__website__url-heading{
+        display: none;
+    }
+}
