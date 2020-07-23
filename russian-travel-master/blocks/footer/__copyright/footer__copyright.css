@@ -1,11 +1,15 @@
 .footer__copyright{
-    margin-top: -15px;
+    width: 186px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     font-style: normal;
     font-weight: normal;
     font-size: 1rem;
     line-height: 1;
     text-align: right;
+    display: inline;
     color: #FFFFFF;
+    border: 1px solid red;
 }
 
 @media screen and (max-width: 1024px){

@@ -1,20 +1,24 @@
+@import url(./_active/header___lang-link_active.css);
+
 .header__lang-link{
     font-style: normal;
     font-weight: normal;
     font-size: 1.5rem;
     line-height: 1;
-    text-align: right;
     color: #FFFFFF;
     /*border:1px solid red;*/
     margin-bottom: 8px;
     margin-top: 18px;
-    text-decoration-line: underline;
+    display: inline-block;
 }
 .header__lang-link:last-child{
     margin-left: 18px;
     text-decoration-line: none;
 }
-
+.header__lang-link:hover{
+    transition: 0.8s all;
+    opacity: 0.8;
+}
 
 @media screen and (min-width: 320px){
     .header__lang-link{

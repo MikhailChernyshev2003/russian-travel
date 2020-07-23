@@ -1,0 +1,25 @@
+.place__row{
+    display: flex;
+    align-items: flex-end;
+    /*border:1px solid red;*/
+}
+
+.place__row:nth-child(2n){
+    margin-top: 48px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+}
+
+
+@media screen and (max-width: 1024px){
+    
+}
+@media screen and (max-width: 768px){
+
+}
+@media screen and (max-width: 320px){
+    .place__row:nth-child(2n){
+        display: block;
+    }
+}

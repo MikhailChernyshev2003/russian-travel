@@ -4,6 +4,7 @@
 
 .intro{
     width: 54%;
+    max-width: 1184px;
     margin-top: 92px;
     /*border:1px solid red;*/
     margin-left: 148px;
@@ -20,6 +21,11 @@
     .intro{
         width: 720px;
         margin-left: 24px;
+    }
+}
+@media screen and (max-width: 750px){
+    .intro{
+        width: 90%;
     }
 }
 @media screen and (max-width: 320px){
