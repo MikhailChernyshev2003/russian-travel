@@ -1,6 +1,9 @@
 .place__image{
     width: 460px;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8a5a5240a98ced905e4b6b06f37e1c595af13574
 }
 
 
@@ -21,8 +24,12 @@
         
     }
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 550px){
     .place__image{
+<<<<<<< HEAD
         width: 320px;
+=======
+        width: 100%;
+>>>>>>> 8a5a5240a98ced905e4b6b06f37e1c595af13574
     }
 }

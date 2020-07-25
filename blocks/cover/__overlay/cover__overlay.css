@@ -1,16 +1,15 @@
 .cover__overlay {   
-    max-width: 100%;
     width: 100%;
     height: 100%;
     flex-direction: column;
     transition: all 0.9s;
-    display: flex;
+    display: block;
     background-color: rgba(42, 44, 47, 0.3);
     position: relative;
+    /*border:1px solid red;*/
     text-decoration: none;
 }
 
 .cover__overlay:hover {    
     background-color: rgba(42, 44, 47, 0.8);
 }
-

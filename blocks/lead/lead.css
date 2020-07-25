@@ -5,6 +5,7 @@
 
 .lead{
     width: 77%;
+    max-width: 1184px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 0px;

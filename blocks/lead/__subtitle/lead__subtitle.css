@@ -14,7 +14,21 @@
 }
 
 
+<<<<<<< HEAD
 @media screen and (max-width: 320px){
+=======
+@media screen and (max-width: 690px){
+    .lead__subtitle{
+        font-size: 1.5rem;
+    }
+}
+@media screen and (max-width: 520px){
+    .lead__subtitle{
+        font-size: 1.2rem;
+    }
+}
+@media screen and (max-width: 420px){
+>>>>>>> 8a5a5240a98ced905e4b6b06f37e1c595af13574
     .lead__subtitle{
         width: 288px;
         font-size: 1rem;
