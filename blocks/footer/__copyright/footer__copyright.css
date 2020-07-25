@@ -12,11 +12,7 @@
     list-style-type:none;
     /*border: 1px solid red;*/
 }
-<<<<<<< HEAD
 
-
-@media screen and (max-width: 320px){
-=======
 @media screen and (max-width: 1275px){
     .footer__copyright{
         margin-left: 250px;
@@ -30,7 +26,6 @@
     
 }
 @media screen and (max-width: 620px){
->>>>>>> 8a5a5240a98ced905e4b6b06f37e1c595af13574
     .footer__copyright{
         display: block;
         margin-top: 48px;

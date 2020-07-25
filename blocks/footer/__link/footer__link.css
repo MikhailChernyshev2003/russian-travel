@@ -16,13 +16,7 @@
     opacity: 0.8;
 }
 
-<<<<<<< HEAD
-@media all and (max-width: 320px){
-=======
-
-
 @media all and (max-width: 620px){
->>>>>>> 8a5a5240a98ced905e4b6b06f37e1c595af13574
     .footer__link{
        display: block;
        margin-top: 32px; 

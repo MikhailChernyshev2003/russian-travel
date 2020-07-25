@@ -13,18 +13,9 @@
     margin-top: 24px;
 }
 
-<<<<<<< HEAD
-@media screen and (max-width: 768px){
-    .place__paragraph{
-        font-size: 1rem;
-    }
-}
-=======
-
 @media screen and (max-width: 768px){
     .place__paragraph{
         line-height: 1.63;
         font-size: 1rem;
     }
 }
->>>>>>> 8a5a5240a98ced905e4b6b06f37e1c595af13574
