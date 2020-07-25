@@ -1,0 +1,15 @@
+.footer__ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    /*border: 1px solid red;*/
+}
+
+@media screen and (max-width: 620px){
+    .footer__ul{
+        display: block;
+    }
+}
